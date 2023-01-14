@@ -6,9 +6,9 @@ Authors:
 <br>
 [Debayan Kumar Ghosh](https://github.com/Debayan97531)
 
-Frontent: HTML,CSS and Javascrict 
-Backend: Python Flask.
-Database: Postgress and pgadmin4
-Website Link: 
-
+Frontent: HTML,CSS and Javascrict<br>
+Backend: Python Flask.<br>
+Database: Postgress and pgadmin4<br>
+Website Link: <br>
+<br>
 Stii working in this project
