@@ -11,6 +11,7 @@ Requirements:<br>
 Frontent: HTML,CSS and Javascrict<br>
 Backend: Python Flask.<br>
 Database: Postgress and pgadmin4<br>
+API testing: Postman<br>
 Website Link: <br>
 <br><br>
 Stii working in this project
