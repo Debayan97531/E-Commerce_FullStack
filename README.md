@@ -7,7 +7,7 @@ Authors:
 <br>
 [Debayan Kumar Ghosh](https://github.com/Debayan97531)
 <br><br>
-Requirements:
+Requirements:<br>
 Frontent: HTML,CSS and Javascrict<br>
 Backend: Python Flask.<br>
 Database: Postgress and pgadmin4<br>
